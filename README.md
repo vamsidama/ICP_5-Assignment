@@ -1,13 +1,17 @@
 # ICP_5-Assignment
 
 # ICP 5 – Machine Learning Pipeline with Iris Dataset
+
 Name: Dama Vamsi
+
 Course: Big Data Analytics
+
 Reg No: 700771673
 
 ## Project Overview
 
 This assignment demonstrates a complete machine learning pipeline using the Iris dataset.
+
 The pipeline integrates preprocessing, dimensionality reduction, and model selection with hyperparameter tuning.
 
 ##  Dataset
@@ -38,6 +42,7 @@ The pipeline integrates preprocessing, dimensionality reduction, and model selec
 ## Results
 
 Each model's best parameters and scores were recorded. 
+
 This pipeline can be extended to other datasets easily.
 
 --- The End ---
